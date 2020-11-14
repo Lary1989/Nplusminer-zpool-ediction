@@ -1,0 +1,2 @@
+# Nplusminer-zpool-ediction
+Miner
